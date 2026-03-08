@@ -7,11 +7,11 @@ DECLARE String city
 DECLARE String zipCode
 
 // Make individual values for each field
-SET firstName = "Lilieth"
-SET lastName = "Gomez"
-SET streetAddress = "123 West Kings Hwy"
-SET city = "Austin"
-SET zipCode = "78212"
+SET firstName
+SET lastName 
+SET streetAddress
+SET city
+SET zipCode
 
 // Print the individual lines
 PRINT "First Name: " + firstName
