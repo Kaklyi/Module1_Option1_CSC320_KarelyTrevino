@@ -1,0 +1,23 @@
+START
+
+DECLARE String firstName
+DECLARE String lastName
+DECLARE String streetAddress
+DECLARE String city
+DECLARE String zipCode
+
+// Make individual values for each field
+SET firstName
+SET lastName 
+SET streetAddress
+SET city
+SET zipCode
+
+// Print the individual lines
+PRINT "First Name: " + firstName
+PRINT "Last Name: " + lastName
+PRINT "Address: " + streetAddress
+PRINT "City: " + city
+PRINT "Zip Code: " + zipCode
+
+END
